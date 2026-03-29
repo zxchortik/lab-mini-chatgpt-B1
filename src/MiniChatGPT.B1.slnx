@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Contracts/Contracts.csproj" />
+  <Project Path="Integration.DataPipeline/Integration.DataPipeline.csproj" />
+  <Project Path="Lib.Corpus.Tests/Lib.Corpus.Tests.csproj" />
+  <Project Path="Lib.Corpus/Lib.Corpus.csproj" />
+  <Project Path="Lib.Tokenization.Tests/Lib.Tokenization.Tests.csproj" />
+  <Project Path="Lib.Tokenization/Lib.Tokenization.csproj" />
+</Solution>
